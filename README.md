@@ -17,8 +17,8 @@
 - Experimenting with AI-powered **chatbots**
 
 ## 📫 Let's Connect!
-- LinkedIn: [https://www.linkedin.com/in/daffaabiyyudz/](#)  
-- Instagram: [@daffaadz_a](#)  
+- LinkedIn: [daffaabiyyu](https://www.linkedin.com/in/daffaabiyyudz/)  
+- Instagram: [@daffaadz_a](https://instagram.com/daffaadz_a)  
 - Portfolio: [on going](#)  
 
 ⚡ Fun fact: I love taking on new challenges and pushing my limits! 😃  
