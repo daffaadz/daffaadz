@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I am daffaadz</h1>
 
-<!--
-**daffaadz/daffaadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about learning new things and building exciting projects!  
+🎮 Currently working on game development and web projects using Next.js.  
+📱 Developing mobile apps with React Native.  
+🌱 Exploring AI, APIs, and data-driven applications.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Web Development:** Next.js, React.js, Tailwind CSS  
+- **Mobile Development:** React Native (TSX)  
+- **Programming Languages:** JavaScript, Python  
+- **Game Development:** Unity (C#)  
+- **Other Interests:** AI integrations, Web & Mobile development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Up To
+- Learning **Next.js** and building real-world projects  
+- Experimenting with AI-powered **chatbots**
+
+## 📫 Let's Connect!
+- LinkedIn: [https://www.linkedin.com/in/daffaabiyyudz/](#)  
+- Instagram: [@daffaadz_a](#)  
+- Portfolio: [on going](#)  
+
+⚡ Fun fact: I love taking on new challenges and pushing my limits! 😃  
